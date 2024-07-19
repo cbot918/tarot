@@ -1,0 +1,5 @@
+- [V] spring boot
+- [V] database connect
+- [V] swaggerui
+- [V] websocket
+- [V] 
